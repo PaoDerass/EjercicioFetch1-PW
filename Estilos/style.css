@@ -1,0 +1,38 @@
+body {
+    background-color: #f3e5f5; 
+    font-family: Arial, sans-serif;
+    color: #4a148c; 
+}
+
+h1 {
+    color: #6a1b9a;
+}
+
+.card {
+    background-color: #e1bee7;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 15px;
+    width: 280px;
+    border: none;
+}
+
+.card img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 15px;
+    text-align: center;
+}
+
+.card h5 {
+    color: #4a148c;
+}
+
+.card p {
+    color: #6a1b9a;
+}
